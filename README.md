@@ -105,7 +105,7 @@ Il sito è diviso in due parti:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Vue.io]: https://vuejs.org/
-[Vue-url]: https://img.shields.io/badge/Vue-DD0031?style=for-the-badge&logo=vue&logoColor=white
+[Vue-url]: https://img.shields.io/badge/Vue-DD0031?style=for-the-badge&logo=vuedotjs&logoColor=white
 [Boostrap-Italia]: https://img.shields.io/badge/Boostrapr%20Italia-8A2BE2
 [Boostrap-Italia.io]: https://italia.github.io/bootstrap-italia/
 [Django]: https://img.shields.io/badge/DJango-DD0031?style=for-the-badge&logo=django&logoColor=white
