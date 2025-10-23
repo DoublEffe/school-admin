@@ -3,3 +3,4 @@ django[bcrypt]
 django-cors-headers
 supabase
 psycopg2-binary
+python-dotenv
