@@ -6,18 +6,18 @@
 <div align="center">
  
   <h3 align="center">SCHOOL AI ASSISTANT</h3>
-  <img src="" width="100" height="100">
+  <img src="https://github.com/DoublEffe/school-admin/blob/main/images/tabler_school.svg" width="100" height="100">
   <p align="center">
     Una pagina web per supportare sia insegnanti che studenti della scuola pubblica italiana.
     <br />
-    <a href=""><strong>Escplora la documentazione »</strong></a>
+    <a href="https://github.com/DoublEffe/school-admin"><strong>Escplora la documentazione »</strong></a>
     <br />
     <br />
     <a href="">Demo</a>
     ·
-    <a href="">Riporta bug</a>
+    <a href="https://github.com/DoublEffe/school-admin/issues">Riporta bug</a>
     ·
-    <a href="">Richiedi Feature</a>
+    <a href="https://github.com/DoublEffe/school-admin/issues">Richiedi Feature</a>
   </p>
 </div>
 
@@ -46,7 +46,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Spiegazione progetto
-Questo progetto mira ad aiutare gli studenti e gli insegnanti della scuola pubblica italiana. Questa parte del progetto serve per gestire ed amministrare classi e materiale scolastico in ed è complementare a questo .
+Questo progetto mira ad aiutare gli studenti e gli insegnanti della scuola pubblica italiana. Questa parte del progetto serve per gestire ed amministrare classi e materiale scolastico in ed è complementare a questo <a href="https://github.com/DoublEffe/school">qui</a>.
 <p align="right">(<a href="#readme-top">torna all'inizio</a>)</p>
 
 
@@ -71,7 +71,7 @@ inoltre il frontend è stato sviluppato usando il codice conforme alle Linee gui
 
 La prima cosa che si vede all'apertura è la pagina di login dove si dovranno immettere email, password.
 
-![Login screen shoot]()
+![Login screen shoot](https://github.com/DoublEffe/school-admin/blob/main/images/login.png)
 
 Le credenziali per l'amministratore sono fornite.
 C'è un solo utente amministratore.
@@ -90,11 +90,11 @@ Il sito è diviso in due parti:
 
 * gestione classi dove si potrà aggiungere insegnanti, studenti, classi e modificare le classi già esistenti.
 
-![gestione classi]()
+![gestione classi](https://github.com/DoublEffe/school-admin/blob/main/images/gestione%20classi.png)
 
 * gestione materiale in cui si potrà fare l'upload dei libri e visualizzarli o cancellarli.
 
-![gestione materiale]()
+![gestione materiale](https://github.com/DoublEffe/school-admin/blob/main/images/gestione%20materiale.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
